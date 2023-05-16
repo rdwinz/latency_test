@@ -15,7 +15,7 @@ from opendis.dis7 import DeadReckoningParameters
 from opendis.RangeCoordinates import *
 
 UDP_PORT = 3001
-DESTINATION_ADDRESS = "127.0.0.1"
+DESTINATION_ADDRESS = "10.0.0.2"
 CLOCK_SPEED = 50
 THRESHOLD_VALUE = .1
 PACKETS_SEND = 20
